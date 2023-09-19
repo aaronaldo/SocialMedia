@@ -1,7 +1,9 @@
+using SocialMediaDraft.Post.Infrastructure.Config;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+builder.Services.Configure<DbConfig>(builder.Configuration.GetSection(nameof(DbConfig)));
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
