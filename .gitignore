@@ -8,3 +8,6 @@
 /SocialMediaDraft.User.Infrasctructure/obj
 /SocialMediaDraft.User.Models/obj
 /SocialMediaDraft.User.Models/bin
+.vs
+obj
+bin
