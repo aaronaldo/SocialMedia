@@ -1,0 +1,15 @@
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\bin\Debug\net6.0\SocialMediaDraft.Post.Models.deps.json
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\bin\Debug\net6.0\SocialMediaDraft.Post.Models.dll
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\bin\Debug\net6.0\SocialMediaDraft.Post.Models.pdb
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\bin\Debug\net6.0\SocialMediaDraft.Commom.dll
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\bin\Debug\net6.0\SocialMediaDraft.Commom.pdb
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\SocialMediaDraft.Post.Models.csproj.AssemblyReference.cache
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\SocialMediaDraft.Post.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\SocialMediaDraft.Post.Models.AssemblyInfoInputs.cache
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\SocialMediaDraft.Post.Models.AssemblyInfo.cs
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\SocialMediaDraft.Post.Models.csproj.CoreCompileInputs.cache
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\SocialMediaDraft.Post.Models.csproj.CopyComplete
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\SocialMediaDraft.Post.Models.dll
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\refint\SocialMediaDraft.Post.Models.dll
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\SocialMediaDraft.Post.Models.pdb
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.Models\obj\Debug\net6.0\ref\SocialMediaDraft.Post.Models.dll

@@ -1,0 +1,15 @@
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\bin\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.deps.json
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\bin\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.dll
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\bin\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.pdb
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\bin\Debug\net6.0\SocialMediaDraft.User.Models.dll
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\bin\Debug\net6.0\SocialMediaDraft.User.Models.pdb
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.csproj.AssemblyReference.cache
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.AssemblyInfoInputs.cache
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.AssemblyInfo.cs
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.csproj.CoreCompileInputs.cache
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.csproj.CopyComplete
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.dll
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\refint\SocialMediaDraft.User.Infrasctructure.dll
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\SocialMediaDraft.User.Infrasctructure.pdb
+C:\git\SocialMedia\SocialMediaDraft\SocialMediaDraft.User.Infrasctructure\obj\Debug\net6.0\ref\SocialMediaDraft.User.Infrasctructure.dll

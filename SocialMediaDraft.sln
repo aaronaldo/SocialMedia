@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialMediaDraft.Post.API", "SocialMediaDraft\SocialMediaDraft.Post.API.csproj", "{6DF5CBD7-60EA-45C1-A56E-16269917597A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialMediaDraft.Post.API", "SocialMediaDraft.API\SocialMediaDraft.Post.API.csproj", "{6DF5CBD7-60EA-45C1-A56E-16269917597A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialMediaDraft.Post.Models", "SocialMediaDraft.Models\SocialMediaDraft.Post.Models.csproj", "{C8D03477-AB87-4514-A690-0F1820CA1695}"
 EndProject
